@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ethancastecoder004
-- 👀 I’m interested in Electrical/Computer Engineering, Sports Medicine, Radiology, and more! 
-- 🌱 I’m currently learning Python, Java, and more in the future!
-- 💞️ I’m looking to collaborate on reserach projects!
+- 👀 I’m interested in Computer Science, Data Science, Sports Medicine, Radiology, and more! 
+- 🌱 I’m currently learning Python, Java, HTML/CSS/JS, MIPS, C, and more in the future!
+- 💞️ I’m looking to collaborate on reserach projects or secure internships!
 - 📫 How to reach me: ethancastellino@gmail.com or ethan.castellino@duke.edu
 
 <!---
